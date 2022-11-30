@@ -4,7 +4,7 @@
 <li>
   Live Preview:
   <ul>
-    <li>Click here -> <a style="text-decoration:none;" href="https://w-university-homepage-1.netlify.app/" target="_blank">WPR-Homepage_1</li>
+    <li>Click here -> <a style="text-decoration:none;" href="https://wpr-homepage-1.netlify.app" target="_blank">WPR-Homepage_1</li>
   </ul>
 </li>
 </ul>
